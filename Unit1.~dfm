@@ -1,0 +1,1591 @@
+object Form1: TForm1
+  Left = 166
+  Top = 47
+  Width = 1044
+  Height = 562
+  Caption = 'Form1'
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Image1: TImage
+    Left = 50
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image1Click
+  end
+  object Image2: TImage
+    Left = 80
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image2Click
+  end
+  object Image3: TImage
+    Left = 110
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image3Click
+  end
+  object Image4: TImage
+    Left = 140
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image4Click
+  end
+  object Image5: TImage
+    Left = 170
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image5Click
+  end
+  object Image6: TImage
+    Left = 200
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image6Click
+  end
+  object Image7: TImage
+    Left = 230
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image7Click
+  end
+  object Image8: TImage
+    Left = 260
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image8Click
+  end
+  object Image9: TImage
+    Left = 290
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image9Click
+  end
+  object Image10: TImage
+    Left = 320
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image10Click
+  end
+  object Image11: TImage
+    Left = 350
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image11Click
+  end
+  object Image12: TImage
+    Left = 380
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image12Click
+  end
+  object Image13: TImage
+    Left = 410
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image13Click
+  end
+  object Image14: TImage
+    Left = 440
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image14Click
+  end
+  object Image15: TImage
+    Left = 470
+    Top = 30
+    Width = 30
+    Height = 30
+    OnClick = Image15Click
+  end
+  object Image16: TImage
+    Left = 50
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image16Click
+  end
+  object Image17: TImage
+    Left = 80
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image17Click
+  end
+  object Image18: TImage
+    Left = 110
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image18Click
+  end
+  object Image19: TImage
+    Left = 140
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image19Click
+  end
+  object Image20: TImage
+    Left = 170
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image20Click
+  end
+  object Image21: TImage
+    Left = 200
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image21Click
+  end
+  object Image22: TImage
+    Left = 230
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image22Click
+  end
+  object Image23: TImage
+    Left = 260
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image23Click
+  end
+  object Image24: TImage
+    Left = 290
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image24Click
+  end
+  object Image25: TImage
+    Left = 320
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image25Click
+  end
+  object Image26: TImage
+    Left = 350
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image26Click
+  end
+  object Image27: TImage
+    Left = 380
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image27Click
+  end
+  object Image28: TImage
+    Left = 410
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image28Click
+  end
+  object Image29: TImage
+    Left = 440
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image29Click
+  end
+  object Image30: TImage
+    Left = 470
+    Top = 60
+    Width = 30
+    Height = 30
+    OnClick = Image30Click
+  end
+  object Image31: TImage
+    Left = 50
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image31Click
+  end
+  object Image32: TImage
+    Left = 80
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image32Click
+  end
+  object Image33: TImage
+    Left = 110
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image33Click
+  end
+  object Image34: TImage
+    Left = 140
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image34Click
+  end
+  object Image35: TImage
+    Left = 170
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image35Click
+  end
+  object Image36: TImage
+    Left = 200
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image36Click
+  end
+  object Image37: TImage
+    Left = 230
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image37Click
+  end
+  object Image38: TImage
+    Left = 260
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image38Click
+  end
+  object Image39: TImage
+    Left = 290
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image39Click
+  end
+  object Image40: TImage
+    Left = 320
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image40Click
+  end
+  object Image41: TImage
+    Left = 350
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image41Click
+  end
+  object Image42: TImage
+    Left = 380
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image42Click
+  end
+  object Image43: TImage
+    Left = 410
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image43Click
+  end
+  object Image44: TImage
+    Left = 440
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image44Click
+  end
+  object Image45: TImage
+    Left = 470
+    Top = 90
+    Width = 30
+    Height = 30
+    OnClick = Image45Click
+  end
+  object Image46: TImage
+    Left = 50
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image46Click
+  end
+  object Image47: TImage
+    Left = 80
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image47Click
+  end
+  object Image48: TImage
+    Left = 110
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image48Click
+  end
+  object Image49: TImage
+    Left = 140
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image49Click
+  end
+  object Image50: TImage
+    Left = 170
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image50Click
+  end
+  object Image51: TImage
+    Left = 200
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image51Click
+  end
+  object Image52: TImage
+    Left = 230
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image52Click
+  end
+  object Image53: TImage
+    Left = 260
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image53Click
+  end
+  object Image54: TImage
+    Left = 290
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image54Click
+  end
+  object Image55: TImage
+    Left = 320
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image55Click
+  end
+  object Image56: TImage
+    Left = 350
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image56Click
+  end
+  object Image57: TImage
+    Left = 380
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image57Click
+  end
+  object Image58: TImage
+    Left = 410
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image58Click
+  end
+  object Image59: TImage
+    Left = 440
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image59Click
+  end
+  object Image60: TImage
+    Left = 470
+    Top = 120
+    Width = 30
+    Height = 30
+    OnClick = Image60Click
+  end
+  object Image61: TImage
+    Left = 50
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image61Click
+  end
+  object Image62: TImage
+    Left = 80
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image62Click
+  end
+  object Image63: TImage
+    Left = 110
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image63Click
+  end
+  object Image64: TImage
+    Left = 140
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image64Click
+  end
+  object Image65: TImage
+    Left = 170
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image65Click
+  end
+  object Image66: TImage
+    Left = 200
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image66Click
+  end
+  object Image67: TImage
+    Left = 230
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image67Click
+  end
+  object Image68: TImage
+    Left = 260
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image68Click
+  end
+  object Image69: TImage
+    Left = 290
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image69Click
+  end
+  object Image70: TImage
+    Left = 320
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image70Click
+  end
+  object Image71: TImage
+    Left = 350
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image71Click
+  end
+  object Image72: TImage
+    Left = 380
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image72Click
+  end
+  object Image73: TImage
+    Left = 410
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image73Click
+  end
+  object Image74: TImage
+    Left = 440
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image74Click
+  end
+  object Image75: TImage
+    Left = 470
+    Top = 150
+    Width = 30
+    Height = 30
+    OnClick = Image75Click
+  end
+  object Image76: TImage
+    Left = 50
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image76Click
+  end
+  object Image77: TImage
+    Left = 80
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image77Click
+  end
+  object Image78: TImage
+    Left = 110
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image78Click
+  end
+  object Image79: TImage
+    Left = 140
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image79Click
+  end
+  object Image80: TImage
+    Left = 170
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image80Click
+  end
+  object Image81: TImage
+    Left = 200
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image81Click
+  end
+  object Image82: TImage
+    Left = 230
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image82Click
+  end
+  object Image83: TImage
+    Left = 260
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image83Click
+  end
+  object Image84: TImage
+    Left = 290
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image84Click
+  end
+  object Image85: TImage
+    Left = 320
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image85Click
+  end
+  object Image86: TImage
+    Left = 350
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image86Click
+  end
+  object Image87: TImage
+    Left = 380
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image87Click
+  end
+  object Image88: TImage
+    Left = 410
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image88Click
+  end
+  object Image89: TImage
+    Left = 440
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image89Click
+  end
+  object Image90: TImage
+    Left = 470
+    Top = 180
+    Width = 30
+    Height = 30
+    OnClick = Image90Click
+  end
+  object Image91: TImage
+    Left = 50
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image91Click
+  end
+  object Image92: TImage
+    Left = 80
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image92Click
+  end
+  object Image93: TImage
+    Left = 110
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image93Click
+  end
+  object Image94: TImage
+    Left = 140
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image94Click
+  end
+  object Image95: TImage
+    Left = 170
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image95Click
+  end
+  object Image96: TImage
+    Left = 200
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image96Click
+  end
+  object Image97: TImage
+    Left = 230
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image97Click
+  end
+  object Image98: TImage
+    Left = 260
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image98Click
+  end
+  object Image99: TImage
+    Left = 290
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image99Click
+  end
+  object Image100: TImage
+    Left = 320
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image100Click
+  end
+  object Image101: TImage
+    Left = 350
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image101Click
+  end
+  object Image102: TImage
+    Left = 380
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image102Click
+  end
+  object Image103: TImage
+    Left = 410
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image103Click
+  end
+  object Image104: TImage
+    Left = 440
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image104Click
+  end
+  object Image105: TImage
+    Left = 470
+    Top = 210
+    Width = 30
+    Height = 30
+    OnClick = Image105Click
+  end
+  object Image106: TImage
+    Left = 50
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image106Click
+  end
+  object Image107: TImage
+    Left = 80
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image107Click
+  end
+  object Image108: TImage
+    Left = 110
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image108Click
+  end
+  object Image109: TImage
+    Left = 140
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image109Click
+  end
+  object Image110: TImage
+    Left = 170
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image110Click
+  end
+  object Image111: TImage
+    Left = 200
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image111Click
+  end
+  object Image112: TImage
+    Left = 230
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image112Click
+  end
+  object Image113: TImage
+    Left = 260
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image113Click
+  end
+  object Image114: TImage
+    Left = 290
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image114Click
+  end
+  object Image115: TImage
+    Left = 320
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image115Click
+  end
+  object Image116: TImage
+    Left = 350
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image116Click
+  end
+  object Image117: TImage
+    Left = 380
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image117Click
+  end
+  object Image118: TImage
+    Left = 410
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image118Click
+  end
+  object Image119: TImage
+    Left = 440
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image119Click
+  end
+  object Image120: TImage
+    Left = 470
+    Top = 240
+    Width = 30
+    Height = 30
+    OnClick = Image120Click
+  end
+  object Image121: TImage
+    Left = 50
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image121Click
+  end
+  object Image122: TImage
+    Left = 80
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image122Click
+  end
+  object Image123: TImage
+    Left = 110
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image123Click
+  end
+  object Image124: TImage
+    Left = 140
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image124Click
+  end
+  object Image125: TImage
+    Left = 170
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image125Click
+  end
+  object Image126: TImage
+    Left = 200
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image126Click
+  end
+  object Image127: TImage
+    Left = 230
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image127Click
+  end
+  object Image128: TImage
+    Left = 260
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image128Click
+  end
+  object Image129: TImage
+    Left = 290
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image129Click
+  end
+  object Image130: TImage
+    Left = 320
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image130Click
+  end
+  object Image131: TImage
+    Left = 350
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image131Click
+  end
+  object Image132: TImage
+    Left = 380
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image132Click
+  end
+  object Image133: TImage
+    Left = 410
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image133Click
+  end
+  object Image134: TImage
+    Left = 440
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image134Click
+  end
+  object Image135: TImage
+    Left = 470
+    Top = 270
+    Width = 30
+    Height = 30
+    OnClick = Image135Click
+  end
+  object Image136: TImage
+    Left = 50
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image136Click
+  end
+  object Image137: TImage
+    Left = 80
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image137Click
+  end
+  object Image138: TImage
+    Left = 110
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image138Click
+  end
+  object Image139: TImage
+    Left = 140
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image139Click
+  end
+  object Image140: TImage
+    Left = 170
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image140Click
+  end
+  object Image141: TImage
+    Left = 200
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image141Click
+  end
+  object Image142: TImage
+    Left = 230
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image142Click
+  end
+  object Image143: TImage
+    Left = 260
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image143Click
+  end
+  object Image144: TImage
+    Left = 290
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image144Click
+  end
+  object Image145: TImage
+    Left = 320
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image145Click
+  end
+  object Image146: TImage
+    Left = 350
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image146Click
+  end
+  object Image147: TImage
+    Left = 380
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image147Click
+  end
+  object Image148: TImage
+    Left = 410
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image148Click
+  end
+  object Image149: TImage
+    Left = 440
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image149Click
+  end
+  object Image150: TImage
+    Left = 470
+    Top = 300
+    Width = 30
+    Height = 30
+    OnClick = Image150Click
+  end
+  object Image151: TImage
+    Left = 50
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image151Click
+  end
+  object Image152: TImage
+    Left = 80
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image152Click
+  end
+  object Image153: TImage
+    Left = 110
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image153Click
+  end
+  object Image154: TImage
+    Left = 140
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image154Click
+  end
+  object Image155: TImage
+    Left = 170
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image155Click
+  end
+  object Image156: TImage
+    Left = 200
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image156Click
+  end
+  object Image157: TImage
+    Left = 230
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image157Click
+  end
+  object Image158: TImage
+    Left = 260
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image158Click
+  end
+  object Image159: TImage
+    Left = 290
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image159Click
+  end
+  object Image160: TImage
+    Left = 320
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image160Click
+  end
+  object Image161: TImage
+    Left = 350
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image161Click
+  end
+  object Image162: TImage
+    Left = 380
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image162Click
+  end
+  object Image163: TImage
+    Left = 410
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image163Click
+  end
+  object Image164: TImage
+    Left = 440
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image164Click
+  end
+  object Image165: TImage
+    Left = 470
+    Top = 330
+    Width = 30
+    Height = 30
+    OnClick = Image165Click
+  end
+  object Image166: TImage
+    Left = 50
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image166Click
+  end
+  object Image167: TImage
+    Left = 80
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image167Click
+  end
+  object Image168: TImage
+    Left = 110
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image168Click
+  end
+  object Image169: TImage
+    Left = 140
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image169Click
+  end
+  object Image170: TImage
+    Left = 170
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image170Click
+  end
+  object Image171: TImage
+    Left = 200
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image171Click
+  end
+  object Image172: TImage
+    Left = 230
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image172Click
+  end
+  object Image173: TImage
+    Left = 260
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image173Click
+  end
+  object Image174: TImage
+    Left = 290
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image174Click
+  end
+  object Image175: TImage
+    Left = 320
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image175Click
+  end
+  object Image176: TImage
+    Left = 350
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image176Click
+  end
+  object Image177: TImage
+    Left = 380
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image177Click
+  end
+  object Image178: TImage
+    Left = 410
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image178Click
+  end
+  object Image179: TImage
+    Left = 440
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image179Click
+  end
+  object Image180: TImage
+    Left = 470
+    Top = 360
+    Width = 30
+    Height = 30
+    OnClick = Image180Click
+  end
+  object Image181: TImage
+    Left = 50
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image181Click
+  end
+  object Image182: TImage
+    Left = 80
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image182Click
+  end
+  object Image183: TImage
+    Left = 110
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image183Click
+  end
+  object Image184: TImage
+    Left = 140
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image184Click
+  end
+  object Image185: TImage
+    Left = 170
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image185Click
+  end
+  object Image186: TImage
+    Left = 200
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image186Click
+  end
+  object Image187: TImage
+    Left = 230
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image187Click
+  end
+  object Image188: TImage
+    Left = 260
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image188Click
+  end
+  object Image189: TImage
+    Left = 290
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image189Click
+  end
+  object Image190: TImage
+    Left = 320
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image190Click
+  end
+  object Image191: TImage
+    Left = 350
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image191Click
+  end
+  object Image192: TImage
+    Left = 380
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image192Click
+  end
+  object Image193: TImage
+    Left = 410
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image193Click
+  end
+  object Image194: TImage
+    Left = 440
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image194Click
+  end
+  object Image195: TImage
+    Left = 470
+    Top = 388
+    Width = 30
+    Height = 30
+    OnClick = Image195Click
+  end
+  object Image196: TImage
+    Left = 50
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image196Click
+  end
+  object Image197: TImage
+    Left = 80
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image197Click
+  end
+  object Image198: TImage
+    Left = 110
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image198Click
+  end
+  object Image199: TImage
+    Left = 140
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image199Click
+  end
+  object Image200: TImage
+    Left = 170
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image200Click
+  end
+  object Image201: TImage
+    Left = 200
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image201Click
+  end
+  object Image202: TImage
+    Left = 230
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image202Click
+  end
+  object Image203: TImage
+    Left = 260
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image203Click
+  end
+  object Image204: TImage
+    Left = 290
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image204Click
+  end
+  object Image205: TImage
+    Left = 320
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image205Click
+  end
+  object Image206: TImage
+    Left = 350
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image206Click
+  end
+  object Image207: TImage
+    Left = 380
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image207Click
+  end
+  object Image208: TImage
+    Left = 410
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image208Click
+  end
+  object Image209: TImage
+    Left = 440
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image209Click
+  end
+  object Image210: TImage
+    Left = 470
+    Top = 418
+    Width = 30
+    Height = 30
+    OnClick = Image210Click
+  end
+  object Image211: TImage
+    Left = 50
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image211Click
+  end
+  object Image212: TImage
+    Left = 80
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image212Click
+  end
+  object Image213: TImage
+    Left = 110
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image213Click
+  end
+  object Image214: TImage
+    Left = 140
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image214Click
+  end
+  object Image215: TImage
+    Left = 170
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image215Click
+  end
+  object Image216: TImage
+    Left = 200
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image216Click
+  end
+  object Image217: TImage
+    Left = 230
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image217Click
+  end
+  object Image218: TImage
+    Left = 260
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image218Click
+  end
+  object Image219: TImage
+    Left = 290
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image219Click
+  end
+  object Image220: TImage
+    Left = 320
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image220Click
+  end
+  object Image221: TImage
+    Left = 350
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image221Click
+  end
+  object Image222: TImage
+    Left = 380
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image222Click
+  end
+  object Image223: TImage
+    Left = 410
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image223Click
+  end
+  object Image224: TImage
+    Left = 440
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image224Click
+  end
+  object Image225: TImage
+    Left = 470
+    Top = 448
+    Width = 30
+    Height = 30
+    OnClick = Image225Click
+  end
+end
